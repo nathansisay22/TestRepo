@@ -1,1 +1,1 @@
-print("Chomp Chomp!")
+print("CHOMP CHOMP CHOMP!")
